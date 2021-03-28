@@ -20,7 +20,6 @@ Projeto dtMoney
 </p> 
 
 <p align="center">
-
    <a href="https://elastic-tesla-7c31c4.netlify.app/">Deploy</a>
 </p> 
 
