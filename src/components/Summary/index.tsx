@@ -17,7 +17,7 @@ const summary = transactions.reduce((acc, transaction) => {
         acc.total += transaction.amount;
 
     } else {
-        acc. withdraws += transaction.amount;
+        acc.withdraws += transaction.amount;
         acc.total -= transaction.amount;
     }
     return acc;
